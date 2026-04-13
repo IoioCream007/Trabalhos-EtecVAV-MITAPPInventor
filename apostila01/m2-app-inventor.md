@@ -9,7 +9,7 @@ Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio
 2C1
 
 ## Autores
-Bruno Lourenço de Lima Isaac Faleiros Quevedo
+Arthur Torres Mendes e Igor Ryan Rodrigues da Silva
 
 # APP INVENTOR
 Jundiaí
