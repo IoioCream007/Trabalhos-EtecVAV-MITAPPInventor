@@ -23,3 +23,44 @@ Na página do menu tem os seguintes botões, créditos (que vai para os crédito
 Na página de Créditos tem um botão que volta para o menu principal.
 Em cada página de pergunta tem quatro alternativas, sendo apenas uma a correta e após o usuário responder alguma, ele é automaticamente direcionado para a próxima pergunta.
 Após ele responder a última pergunta ele vai para a págna de resultados que mostra quantas perguntas ele acertou e tem dois botões, reiniciar (que volta para a pergunta 1), e voltar para o menu principal.
+
+## Print do APP
+
+### Design (Menu principal)
+
+### Blocos (Menu principal)
+---
+
+### Design (Créditos)
+
+### Blocos (Créditos)
+---
+
+### Design (Pergunta 1)
+
+### Blocos (Pergunta 1)
+---
+
+### Design (Pergunta 2)
+
+### Blocos (Pergunta 2)
+---
+
+### Design (Pergunta 3)
+
+### Blocos (Pergunta 3)
+---
+
+### Design (Pergunta 4)
+
+### Blocos (Pergunta 4)
+---
+
+### Design (Pergunta 5)
+
+### Blocos (Pergunta 5)
+---
+
+### Design (Resultado)
+
+### Blocos (Resultado)
