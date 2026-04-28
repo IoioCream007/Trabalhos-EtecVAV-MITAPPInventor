@@ -1,0 +1,3 @@
+C:\Users\igors\source\repos\hot_dog\hot_dog\obj\Debug\hot_dog.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\hot_dog\hot_dog\obj\Debug\hot_dog.Form1.resources
+C:\Users\igors\source\repos\hot_dog\hot_dog\obj\Debug\hot_dog.csproj.GenerateResource.cache
